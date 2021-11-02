@@ -9,33 +9,33 @@ Here are the List Of Features That Lux can offers you:
 
 - Unidrectional Path Tracing with NEE. 
 
--SAH BVH. 
+- SAH BVH. 
 
--Render models with 10M+ triangles.
+- Render models with 10M+ triangles.
 
--Normal mapping and convert bump map to normal map. 
+- Normal mapping and convert bump map to normal map. 
 
--ALpha Texture. 
+- ALpha Texture. 
 
--Enviroment Mapping.
+- Enviroment Mapping.
 
--SSE Ray-Box Intersection (optional). 
+- SSE Ray-Box Intersection (optional). 
 
--Area Lighting, Point Lighting And Directional Lighting.
+- Area Lighting, Point Lighting And Directional Lighting.
 
--Lambert, Mirror.
+- Lambert, Mirror.
 
--Glass of various kinds.
+- Glass of various kinds.
 
--Microfacet model. 
+- Microfacet model. 
 
--ThinDielectric, ThinSheet, ClearCoat.
+- ThinDielectric, ThinSheet, ClearCoat.
 
--Adaptive Sampling.
+- Adaptive Sampling.
 
--Openmp parallel. 
+- Openmp parallel. 
 
--And Many More...
+- And Many More...
 
 
 # Gallery
