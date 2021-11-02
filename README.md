@@ -7,7 +7,7 @@ Here are the List Of Features That Lux can offers you:
 
 # Featuring
 
--Unidrectional Path Tracing with NEE. 
+- Unidrectional Path Tracing with NEE. 
 
 -SAH BVH. 
 
