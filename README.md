@@ -5,28 +5,19 @@ Why it was Lux, because this is my favorite girl from Leauge Of Legends, my othe
 
 Here are the List Of Features That Lux can offers you:  
 
+# Featuring
+
 -Unidrectional Path Tracing with NEE. 
-
 -SAH BVH. 
-
 -Render models with 10M+ triangles.
-
 -Normal mapping and convert bump map to normal map. ALpha Texture. Enviroment Mapping.
-
 -SSE Ray-Box Intersection (optional). 
-
 -Lambert, Mirror.
-
 -Glass of different kinds.
-
 -Microfacet model. 
-
 -ThinDielectric, ThinSheet, ClearCoat.
-
 -Adaptive Sampling.
-
 -Openmp parallel. 
-
 -And Many More...
 
 
