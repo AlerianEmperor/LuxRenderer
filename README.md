@@ -17,6 +17,8 @@ Here are the List Of Features That Lux can offers you:
 
 -SSE Ray-Box Intersection (optional). 
 
+-Area Lighting, Point Lighting And Directional Lighting.
+
 -Lambert, Mirror.
 
 -Glass of different kinds.
