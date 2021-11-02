@@ -5,7 +5,9 @@ Why it was Lux, because this is my favorite girl from Leauge Of Legends, my othe
 
 Here are the List Of Features That Lux can offers you:  
 
--Unidrectional Path Tracing with NEE. SAH BVH. 
+-Unidrectional Path Tracing with NEE. 
+
+-SAH BVH. 
 
 -Render models with 10M+ triangles.
 
@@ -28,7 +30,7 @@ Here are the List Of Features That Lux can offers you:
 -And Many More...
 
 
-# Gallery:
+# Gallery
 
 ![1_BathRoom_Of_Lux_Beautiful](https://user-images.githubusercontent.com/93391908/139697925-6aff1fc2-f7be-40db-8094-2f34e8012153.png)
 ![2_Daki_Room_Perfect](https://user-images.githubusercontent.com/93391908/139697946-10ce7605-184f-4e3c-bd74-d96c0892d9b3.png)
