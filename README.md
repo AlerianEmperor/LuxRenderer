@@ -13,7 +13,11 @@ Here are the List Of Features That Lux can offers you:
 
 -Render models with 10M+ triangles.
 
--Normal mapping and convert bump map to normal map. ALpha Texture. Enviroment Mapping.
+-Normal mapping and convert bump map to normal map. 
+
+-ALpha Texture. 
+
+-Enviroment Mapping.
 
 -SSE Ray-Box Intersection (optional). 
 
