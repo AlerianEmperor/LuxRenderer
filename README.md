@@ -25,7 +25,7 @@ Here are the List Of Features That Lux can offers you:
 
 -Lambert, Mirror.
 
--Glass of different kinds.
+-Glass of various kinds.
 
 -Microfacet model. 
 
