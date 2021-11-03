@@ -1,7 +1,7 @@
 # Physical-Based-Rendering
-Physical Based Rendering With Lux is a rendering system ưhich is capable of rendering high quality images. This is a projectvuse no dependent library and only pure c++, and also took so damn looong to finish since everything have to be written from the scratch. In short, it was the result of years of arduous struggle and intense fighting!
+Physical Based Rendering With Lux is a rendering system which is capable of rendering high quality images. This is a project use no dependent library and only pure c++, it also took so damn looong to finish since everything have to be written from the scratch. In short, it was the result of years of arduous struggle and intense fighting!
 
-Lux was chosen because she is my most favorite girl from Leauge Of Legends, my others favorite are Caitlyn and Syndra, you can find their images at honorable positions in rendered images along with Daki from Demon Slayers.
+The project was named after Lux, my most favorite girl from Leauge Of Legends, my others favorite are Caitlyn and Syndra, you can find their images at honorable positions in rendered images along with Daki from Demon Slayers.
 
 Here are the List Of Features That Lux can offers you:  
 
