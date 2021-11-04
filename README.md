@@ -3,7 +3,7 @@ Physical Based Rendering With Lux is a rendering system which is capable of rend
 
 The project was named after the adorable Lux, my most favorite girl from Leauge Of Legends, my others favorite are Caitlyn and Syndra, you can find their images at honorable positions in rendered images along with Daki from Demon Slayers.
 
-Here are the List Of Features That Lux can offers you:  
+Here are the List Of Features that Lux can offers you:  
 
 # Featuring
 
