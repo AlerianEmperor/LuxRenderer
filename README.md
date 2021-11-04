@@ -15,7 +15,7 @@ Here are the List Of Features that Lux can offers you:
 
 - Normal mapping and convert bump map to normal map. 
 
-- ALpha Texture. 
+- Alpha Texture. 
 
 - Enviroment Mapping.
 
