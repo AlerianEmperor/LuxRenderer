@@ -23,7 +23,9 @@ Here are the List Of Features of Lux Rendering:
 
 - Area Lighting, Point Lighting And Directional Lighting.
 
-- Lambert, Mirror.
+- Lambert.
+
+- Mirror.
 
 - Glass of various kinds.
 
