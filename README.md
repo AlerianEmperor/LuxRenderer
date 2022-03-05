@@ -27,7 +27,7 @@ Here are the List Of Features of Lux Rendering:
 
 - Mirror.
 
-- Glass of various kinds.
+- Various kinds ò Glass.
 
 - Microfacet model. 
 
