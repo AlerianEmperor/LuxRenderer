@@ -51,7 +51,7 @@ Here are the List Of Features of Lux Rendering:
 ![7_Dabrovic_Sponza](https://user-images.githubusercontent.com/93391908/139698000-bb29be2b-0523-4322-afca-bc40d7801eca.png)
 ![8_Sibenik](https://user-images.githubusercontent.com/93391908/139698009-d04cb3ef-7493-4888-8715-a1aa5f3df962.png)
 ![9_Coffe_And_Baby](https://user-images.githubusercontent.com/93391908/139698025-478f8e72-e3e1-43b1-a636-83a6a5aa9ff5.png)
-![10_Lamp](https://user-images.githubusercontent.com/93391908/139698037-a7297dd0-5137-449d-ae10-387e90c2828a.png)
+![10_Lamp](htt![a_a_512_512_volume_Final_6144_9](https://user-images.githubusercontent.com/93391908/159298555-da7c1a3c-d79d-4338-af75-4cc24103840a.png)
 ![11_Dining_Room](https://user-images.githubusercontent.com/93391908/139698049-10be903b-7828-4c18-90a7-07caba9cea44.png)
 ![12_Salle_De_Bain](https://user-images.githubusercontent.com/93391908/139698060-f25551d2-b31d-4f02-94ed-b7a2bee77156.png)
 ![13_Hexa_Ball_up_skirt](https://user-images.githubusercontent.com/93391908/139698075-e4ad551a-615c-437d-b517-1f20374e1db8.png)
@@ -59,3 +59,5 @@ Here are the List Of Features of Lux Rendering:
 ![15_Space_Ship](https://user-images.githubusercontent.com/93391908/139698089-7443c196-459c-4e95-a1d1-fc44d97ca02d.png)
 ![16_Storm_Trooper](https://user-images.githubusercontent.com/93391908/139698105-9e204194-5513-4295-b994-f710a48b7de9.png)
 ![17_SanMiguel](https://user-images.githubusercontent.com/93391908/139698111-c70cb423-5ea7-49b9-a7fc-4c6bcb24cdf3.png)
+![a_a_512_512_volume_Final_6144_9](https://user-images.githubusercontent.com/93391908/159298617-d8afb673-7624-4c66-b490-51963b682b6d.png)
+
