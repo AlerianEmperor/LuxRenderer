@@ -33,6 +33,8 @@ Here are the List Of Features of Lux Rendering:
 
 - ThinDielectric, ThinSheet, ClearCoat.
 
+- Volumetric Path Tracing.
+
 - Adaptive Sampling.
 
 - Openmp parallel. 
