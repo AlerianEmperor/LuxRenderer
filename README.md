@@ -61,5 +61,6 @@ Here are the List Of Features of Lux Rendering:
 ![15_Space_Ship](https://user-images.githubusercontent.com/93391908/139698089-7443c196-459c-4e95-a1d1-fc44d97ca02d.png)
 ![16_Storm_Trooper](https://user-images.githubusercontent.com/93391908/139698105-9e204194-5513-4295-b994-f710a48b7de9.png)
 ![17_SanMiguel](https://user-images.githubusercontent.com/93391908/139698111-c70cb423-5ea7-49b9-a7fc-4c6bcb24cdf3.png)
-![Volume_Metric_Path_Tracing](https://user-images.githubusercontent.com/93391908/159625612-72679eed-e4dd-45f2-854c-259e238beb8a.png)
+![18_Volume_10240_10240_9_De_Purple](https://user-images.githubusercontent.com/93391908/159660431-f1388640-a1ab-4450-9c29-213ab5ecf271.png)
+
 
