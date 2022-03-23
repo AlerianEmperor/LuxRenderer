@@ -63,4 +63,3 @@ Here are the List Of Features of Lux Rendering:
 ![17_SanMiguel](https://user-images.githubusercontent.com/93391908/139698111-c70cb423-5ea7-49b9-a7fc-4c6bcb24cdf3.png)
 ![Volume_Metric_Path_Tracing](https://user-images.githubusercontent.com/93391908/159625612-72679eed-e4dd-45f2-854c-259e238beb8a.png)
 
-
