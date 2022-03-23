@@ -531,6 +531,87 @@ static vec3 clamp_vector(vec3& v, const float& low, const float& high)
 
 	return vec3(x, y, z);
 }
+
+//Remove The Mysterious Purple Dots Appear Across The Image.
+//This Error sometime appear out of nowhere.
+//The Pixels affected by this error have Green Channel = 0, The Remanning Red and Blue Channle make the pixel appear Purple.
+//vec3 is perfectly.  
+//What is the reason behind this phenomenal.
+//Volume Image, Wooden Stair Case and Storm Trooper images was affect by this error.
+void de_purple(string& file_name)
+{
+	ifstream ifs(file_name);
+
+	char line[512];
+
+	ifs.getline(line, 512);
+	ifs.getline(line, 512);
+	ifs.getline(line, 512);
+
+	vector<vec3> color;
+
+	while (ifs.getline(line, 512))
+	{
+		float x, y, z;
+
+		ifs >> x;
+		ifs >> y;
+		ifs >> z;
+		color.push_back(vec3(x, y, z));
+	}
+
+	int size = color.size();
+
+	int dx[4] = { 1, 0, -1, 0 };
+	int dy[4] = { 0, 1,  0, -1 };
+	for (int i = 0; i < size; ++i)
+	{
+		if (color[i].y == 0 && color[i].x > 0 && color[i].z > 0)
+		{
+			int x_coord = i % Width;
+			int y_coord = i / Width;
+
+			int count_none_purple = 0;
+			
+			vec3 sum(0.0f);
+
+			for (int j = 0; j < 4; ++j)
+			{
+				int new_x = x_coord + dx[j];
+				int new_y = y_coord + dy[j];
+
+				if (new_x >= 0 && new_x < Width && new_y >= 0 && new_y < Height)
+				{
+					int ind = new_y * Width + new_x;
+
+					if (color[ind].y > 0.0f)
+					{
+						++count_none_purple;
+						sum += color[ind];
+					}
+				}
+			}
+
+			if (count_none_purple >= 3)
+				color[i] = sum / count_none_purple;
+		}
+	}
+
+	ofstream ofs(file_name + "De_Purple.ppm");
+
+	ofs << "P3\n" << Width << " " << Height << "\n255\n";
+
+	for (int i = 0; i < size; ++i)
+		ofs << color[i].x << " " << color[i].y << " " << color[i].z << "\n";
+}
+
+void main_2()
+{
+	string file_name = "Volume_10240_10240_9.ppm";
+
+	de_purple(file_name);
+}
+
 */
 //Ghi chu
 //su dung prev_normal lam cho nguon sang bi xam nhin ko that
