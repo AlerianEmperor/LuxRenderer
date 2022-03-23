@@ -531,6 +531,7 @@ static vec3 clamp_vector(vec3& v, const float& low, const float& high)
 
 	return vec3(x, y, z);
 }
+*/
 
 //Remove The Mysterious Purple Dots Appear Across The Image.
 //This Error sometime appear out of nowhere.
@@ -612,7 +613,6 @@ void main_2()
 	de_purple(file_name);
 }
 
-*/
 //Ghi chu
 //su dung prev_normal lam cho nguon sang bi xam nhin ko that
 //prev_normal su dung de tinh pdf light
