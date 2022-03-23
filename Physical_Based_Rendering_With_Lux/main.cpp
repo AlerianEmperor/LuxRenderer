@@ -539,7 +539,7 @@ static vec3 clamp_vector(vec3& v, const float& low, const float& high)
 //vec3 is perfectly.  
 //What is the reason behind this phenomenal.
 //Volume Image, Wooden Stair Case and Storm Trooper images was affect by this error.
-void de_purple(string& file_name)
+void de_purple(string& file_name, string& new_file_name)
 {
 	ifstream ifs(file_name);
 
@@ -598,7 +598,7 @@ void de_purple(string& file_name)
 		}
 	}
 
-	ofstream ofs(file_name + "De_Purple.ppm");
+	ofstream ofs(new_file_name);
 
 	ofs << "P3\n" << Width << " " << Height << "\n255\n";
 
@@ -610,7 +610,16 @@ void main_2()
 {
 	string file_name = "Volume_10240_10240_9.ppm";
 
-	de_purple(file_name);
+	//call de_purple repeatedly until all purple is gone
+	//some time purple dots appear in clutches so each call will strip them apart
+	
+	string new_file_name = file_name + "De_Purple.ppm";
+		
+	de_purple(file_name, new_file_name);	
+	
+	//de_purple(new_file_name, new_file_name);
+	//de_purple(new_file_name, new_file_name);
+	//de_purple(new_file_name, new_file_name);
 }
 
 //Ghi chu
