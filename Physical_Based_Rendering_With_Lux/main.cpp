@@ -616,7 +616,6 @@ void main_2()
 	string new_file_name = file_name + "De_Purple.ppm";
 		
 	de_purple(file_name, new_file_name);	
-	
 	//de_purple(new_file_name, new_file_name);
 	//de_purple(new_file_name, new_file_name);
 	//de_purple(new_file_name, new_file_name);
