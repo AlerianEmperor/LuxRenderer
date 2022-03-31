@@ -43,7 +43,7 @@ Here are the List Of Features of Lux Rendering:
 
 
 # Gallery
-
+![1_Class_sun_realistic_1 0_0 2_0 2_blur_0 01_Medium_2_0 036_sigma_s_Metal_Chair_Cr_Big_16_9](https://user-images.githubusercontent.com/93391908/161089555-053aa755-a3ab-4bc7-819d-f849de84deb3.png)
 ![1_BathRoom_Of_Lux_Beautiful](https://user-images.githubusercontent.com/93391908/139697925-6aff1fc2-f7be-40db-8094-2f34e8012153.png)
 ![2_Daki_Room_Perfect](https://user-images.githubusercontent.com/93391908/139697946-10ce7605-184f-4e3c-bd74-d96c0892d9b3.png)
 ![3_Kitchen](https://user-images.githubusercontent.com/93391908/139697958-f27cada7-e722-49c3-982f-f525519627ab.png)
