@@ -42,6 +42,7 @@ Here are the List Of Features of Lux Rendering:
 - And Many More...
 
 Note: 
+
 1.Some Images are not fully rendered because these images are WIP features.  
 
 2.The source code is not properly clean up due to the lack of time.
