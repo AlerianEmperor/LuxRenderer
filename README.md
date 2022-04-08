@@ -41,9 +41,10 @@ Here are the List Of Features of Lux Rendering:
 
 - And Many More...
 
-Note: Some Images are not fully rendered because these images are WIP features.  
+Note: 
+1.Some Images are not fully rendered because these images are WIP features.  
 
-The source code is not properly clean up due to the lack of time.
+2.The source code is not properly clean up due to the lack of time.
 
 # Gallery
 ![1_Class_sun_realistic_1 0_0 2_0 2_blur_0 01_Medium_2_0 036_sigma_s_Metal_Chair_Cr_Big_16_9](https://user-images.githubusercontent.com/93391908/161089555-053aa755-a3ab-4bc7-819d-f849de84deb3.png)
