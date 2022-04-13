@@ -35,6 +35,8 @@ Here are the List Of Features of Lux Rendering:
 
 - Volumetric Path Tracing.
 
+- God Ray. 
+
 - Adaptive Sampling.
 
 - Openmp parallel. 
