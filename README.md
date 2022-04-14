@@ -71,5 +71,6 @@ Note:
 ![17_SanMiguel](https://user-images.githubusercontent.com/93391908/139698111-c70cb423-5ea7-49b9-a7fc-4c6bcb24cdf3.png)
 ![19_Cornell_10240_10240_9_De_Purple](https://user-images.githubusercontent.com/93391908/163311533-acc0815b-b2f3-4d9d-b231-f54ab98f031a.png)
 ![18_Volume_10240_10240_9_De_Purple](https://user-images.githubusercontent.com/93391908/159660431-f1388640-a1ab-4450-9c29-213ab5ecf271.png)
+![20_God_Ray_Room_High_Monkey_4096_9](https://user-images.githubusercontent.com/93391908/163350301-7e3dd60a-8b77-4887-b3f9-68284f5030fb.png)
 
 
