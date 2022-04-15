@@ -73,6 +73,7 @@ Note:
 ![18_Volume_10240_10240_9_De_Purple](https://user-images.githubusercontent.com/93391908/159660431-f1388640-a1ab-4450-9c29-213ab5ecf271.png)
 ![20_God_Ray_Room_High_Monkey_4096_9](https://user-images.githubusercontent.com/93391908/163350301-7e3dd60a-8b77-4887-b3f9-68284f5030fb.png)
 
-![20_Radiance_Volume_pdf_scatter_2_box_64_9](htt![20_Radiance_Volume_pdf_scatter_64_9](https://user-images.githubusercontent.com/93391908/163578606-cb37efc4-7e26-4ca4-925b-9f632e153aeb.png)
-ps://user-images.githubusercontent.com/93391908/163578575-86d50214-6961-47c7-bdb8-2cd765cfbc3a.png)
+![20_Radiance_Volume_pdf_scatter_2_box_64_9](https://user-images.githubusercontent.com/93391908/163578689-fe7c3aca-e769-4090-a78e-ce3b62538ca4.png)
+
+![20_Radiance_Volume_pdf_scatter_64_9](https://user-images.githubusercontent.com/93391908/163578700-41fda0aa-6b61-4179-be76-a0123f1c7365.png)
 
