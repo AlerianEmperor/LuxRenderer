@@ -18342,3 +18342,5 @@ __global__ void TraceKernel(glm::vec3* accumulatedColor,
 */
 
 #endif // !_VEC3_H_
+//use Radiance Volume for Subsurface Scattering
+//use god_ray_pbrt_blur for god ray
