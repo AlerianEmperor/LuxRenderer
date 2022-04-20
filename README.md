@@ -37,6 +37,8 @@ Here are the List Of Features of Lux Rendering:
 
 - God Ray. 
 
+- SubSurface Scattering.
+
 - Adaptive Sampling.
 
 - Openmp parallel. 
