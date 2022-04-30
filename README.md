@@ -1,4 +1,4 @@
-# Physical Based Rendering With Lux Render
+# Physical Based Rendering With Lux Renderer
 Physical Based Rendering With Lux is a rendering system which is capable of rendering high quality, lifelike images. This project use no dependent library and only pure c++, it also took so damn looong to finish since everything have to be written from the scratch. This project is the pinnacle of years of strenuous struggle and firce fighting!
 
 The project was named after the adorable Lux :innocent:, my most favorite girl from League Of Legends. My others favorite are Caitlyn and Syndra, you can find their images at honorable positions in rendered images along with Daki from Demon Slayers.
