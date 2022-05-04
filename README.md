@@ -1,4 +1,4 @@
-# Physical Based Rendering With Lux Renderer
+# Lux Renderer
 
 A Huge Shout out to JungleBits.
 
