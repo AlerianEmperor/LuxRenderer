@@ -3,7 +3,7 @@ Lux Render is a rendering system which is capable of rendering high quality, lif
 
 The project was named after the adorable Lux :innocent:, my most favorite girl from League Of Legends. My others favorite are Caitlyn and Syndra, you can find their images at honorable positions in rendered images along with Daki from Demon Slayers.
 
-Here are the List Of Features of Lux Rendering:  
+Here are the List Of Features of Lux Renderer:  
 
 # Featuring
 
