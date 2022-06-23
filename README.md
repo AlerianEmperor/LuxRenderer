@@ -39,7 +39,7 @@ Here are the List Of Features of Lux Renderer:
 
 - SubSurface Scattering.
 
-- Velvet and Ashikhmin velvet.
+- Diffuse Velvet and Ashikhmin Velvet.
 
 - Adaptive Sampling.
 
