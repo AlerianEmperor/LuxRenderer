@@ -52,6 +52,8 @@ Note:
 2.The source code is not properly clean up due to the lack of time.
 
 # Gallery
+![cloth_curtain_rough_plastic_GGX_spec_0 9_sun_brightter_6_blur_0 27_big_book_y_0 2](https://user-images.githubusercontent.com/93391908/175318885-6ecec9fb-33dc-495a-a8ed-93ebffdbd84a.png)
+
 ![21_Class_Room_Blur_God_Ray_Correct_3_2_1_1 0_0 5_0 2_sun_color_god_ray_seperate_value_64_9](https://user-images.githubusercontent.com/93391908/163158423-c491402f-4f02-4654-84b9-f5ff72e8e412.png)
 ![1_Class_sun_realistic_1 0_0 2_0 2_blur_0 01_Medium_2_0 036_sigma_s_Metal_Chair_Cr_Big_16_9](https://user-images.githubusercontent.com/93391908/161089555-053aa755-a3ab-4bc7-819d-f849de84deb3.png)
 ![1_BathRoom_Of_Lux_Beautiful](https://user-images.githubusercontent.com/93391908/139697925-6aff1fc2-f7be-40db-8094-2f34e8012153.png)
