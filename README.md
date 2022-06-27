@@ -1,5 +1,5 @@
 # Lux Renderer
-Lux Render is a rendering system which is capable of rendering high quality, lifelike images (not to be confuse with LuxCorRenderer, it appear that all good names have already been taken). This project use no dependent library and only pure C++, it also took so damn looong to finish since everything have to be written from the scratch. Lux Render is the pinnacle of years of strenuous struggle and firce fighting!
+Lux Render is a rendering system which is capable of rendering high quality, lifelike images (not to be confuse with LuxCoreRenderer, it appear that all good names have already been taken). This project use no dependent library and only pure C++, it also took so damn looong to finish since everything have to be written from the scratch. Lux Render is the pinnacle of years of strenuous struggle and firce fighting!
 
 The project was named after the adorable Lux :innocent:, my most favorite girl from League Of Legends. My others favorite are Caitlyn and Syndra, you can find their images at honorable positions in rendered images along with Daki from Demon Slayers.
 
