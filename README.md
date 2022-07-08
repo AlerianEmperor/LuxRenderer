@@ -75,7 +75,7 @@ Note:
 ![15_Space_Ship](https://user-images.githubusercontent.com/93391908/139698089-7443c196-459c-4e95-a1d1-fc44d97ca02d.png)
 ![16_Storm_Trooper](https://user-images.githubusercontent.com/93391908/139698105-9e204194-5513-4295-b994-f710a48b7de9.png)
 ![17_SanMiguel](https://user-images.githubusercontent.com/93391908/139698111-c70cb423-5ea7-49b9-a7fc-4c6bcb24cdf3.png)
-![Cornell_Box_Fog_10240 ppmde_purple_de_black_de_infinity_de_speckle](https://user-images.githubusercontent.com/93391908/177918299-292a3da8-71bc-4b53-b9f1-17709565e994.png)
+![Cornell_Box_Fog_20480](https://user-images.githubusercontent.com/93391908/178015603-377bb657-fdf8-4f1d-8968-94acf73b0f5e.png)
 ![20_God_Ray_Room_High_Monkey_4096_9](https://user-images.githubusercontent.com/93391908/163350301-7e3dd60a-8b77-4887-b3f9-68284f5030fb.png)
 ![Volume_2048_Red_Green ppmde_purple_de_black_de_infinity_de_speckle_4](https://user-images.githubusercontent.com/93391908/177694785-e0c2b6b8-3822-48f3-bfc5-bbe8c0483473.png)
 ![Volume_2048_White ppmde_purple_de_black_de_infinity_de_speckle_4](https://user-images.githubusercontent.com/93391908/177694793-78a4c7d7-e2a4-424c-bf50-935dd9965df5.png)
