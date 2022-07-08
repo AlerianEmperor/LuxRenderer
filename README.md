@@ -57,6 +57,7 @@ Note:
 
 # Gallery
 ![cloth_curtain_rough_plastic_GGX_spec_0 9_sun_brightter_6_blur_0 27_big_book_y_0 2](https://user-images.githubusercontent.com/93391908/175318885-6ecec9fb-33dc-495a-a8ed-93ebffdbd84a.png)
+![god_ray_Class_Room_4096 ppm_4096_9](https://user-images.githubusercontent.com/93391908/177965557-a324ac9e-5a04-4f8c-a3bc-1fc14c0ea3a9.png)
 
 ![21_Class_Room_Blur_God_Ray_Correct_3_2_1_1 0_0 5_0 2_sun_color_god_ray_seperate_value_64_9](https://user-images.githubusercontent.com/93391908/163158423-c491402f-4f02-4654-84b9-f5ff72e8e412.png)
 ![1_Class_sun_realistic_1 0_0 2_0 2_blur_0 01_Medium_2_0 036_sigma_s_Metal_Chair_Cr_Big_16_9](https://user-images.githubusercontent.com/93391908/161089555-053aa755-a3ab-4bc7-819d-f849de84deb3.png)
