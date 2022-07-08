@@ -79,7 +79,8 @@ Note:
 ![20_God_Ray_Room_High_Monkey_4096_9](https://user-images.githubusercontent.com/93391908/163350301-7e3dd60a-8b77-4887-b3f9-68284f5030fb.png)
 ![Volume_2048_Red_Green ppmde_purple_de_black_de_infinity_de_speckle_4](https://user-images.githubusercontent.com/93391908/177694785-e0c2b6b8-3822-48f3-bfc5-bbe8c0483473.png)
 ![Volume_2048_White ppmde_purple_de_black_de_infinity_de_speckle_4](https://user-images.githubusercontent.com/93391908/177694793-78a4c7d7-e2a4-424c-bf50-935dd9965df5.png)
-![Volume_2048_White ppmde_purple_de_black_de_infinity_de_speckle_fix_position_plus_200](https://user-images.githubusercontent.com/93391908/177918408-3e52ef22-87fc-448a-a1bf-72cbb5cce8bc.png)
+![Volume_2048_White ppmde_purple_de_black_de_infinity_de_speckle_fix_position_plus_100](https://user-images.githubusercontent.com/93391908/177918491-a56384a9-5b74-496a-93a4-2fcfa3828297.png)
+
 
 
 
