@@ -41,6 +41,8 @@ Here are the List Of Features of Lux Renderer:
 
 - Diffuse Velvet and Ashikhmin Velvet.
 
+- Simple Portal.
+
 - Adaptive Sampling.
 
 - Openmp parallel. 
