@@ -49,16 +49,6 @@ Here are the List Of Features of Lux Renderer:
 
 - And Many More...
 
-Note: 
-
-1.Some Images are not fully rendered because these images are WIP features.  
-
-2.The source code is not properly clean up due to the lack of time.
-
-3.BVH is not flatten: In previous versions, I used 2 versions of flatten BVH, each  used 28 bytes and 32 bytes per bvh node, compress by using level order traversal on bvh tree. Surprisingly, they are all slower than the unflat, 36 bytes bvh. That's why I don't add them in the source code, you can still snap the "Flat BVH" on my "Rendering Resources" repositores.
-
-4.There are many Path Tracing function that are all start with "sibenik" because the version I use to render the sibenik sence produce the best result. More over, each sence require a different set up that why ther are many functions like : "point light", "directional lighting" ... 
-
 # Gallery
 ![cloth_curtain_rough_plastic_GGX_spec_0 9_sun_brightter_6_blur_0 27_big_book_y_0 2](https://user-images.githubusercontent.com/93391908/175318885-6ecec9fb-33dc-495a-a8ed-93ebffdbd84a.png)
 ![ClassRoom_Waifu_2_big_fog_sun_sigma_a_0 6_sun_sigma_s_0 05_god_ray_9_6_3_8192_sky_4 ppm_8192_9](https://user-images.githubusercontent.com/93391908/178229793-0ae6dff3-ed11-4e80-9cef-d255af5c2f54.png)
