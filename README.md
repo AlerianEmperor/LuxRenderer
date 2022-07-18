@@ -55,7 +55,7 @@ Note:
 
 2.The source code is not properly clean up due to the lack of time.
 
-3.BVH is not flatten: In previous version, I used 2 versions of flatten BVH, 1 used 28 bytes per bvh nodes, the other used 32 bytes, compress by using level order traversal on bvh tree. Surprisingly, they are all slower than the unflat, 36 bytes bvh. That's why I don't add them in the source code, you can still snap the "Flat BVH" on my "Rendering Resources" repositores.
+3.BVH is not flatten: In previous version, I used 2 versions of flatten BVH, each  used 28 bytes and 32 bytes per bvh node, compress by using level order traversal on bvh tree. Surprisingly, they are all slower than the unflat, 36 bytes bvh. That's why I don't add them in the source code, you can still snap the "Flat BVH" on my "Rendering Resources" repositores.
 
 # Gallery
 ![cloth_curtain_rough_plastic_GGX_spec_0 9_sun_brightter_6_blur_0 27_big_book_y_0 2](https://user-images.githubusercontent.com/93391908/175318885-6ecec9fb-33dc-495a-a8ed-93ebffdbd84a.png)
