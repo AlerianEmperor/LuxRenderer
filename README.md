@@ -1,4 +1,3 @@
-Thank you unix-junkie for the star, I am really appericate, Happy Coding!
 # Gallery
 ![cloth_curtain_rough_plastic_GGX_spec_0 9_sun_brightter_6_blur_0 27_big_book_y_0 2](https://user-images.githubusercontent.com/93391908/175318885-6ecec9fb-33dc-495a-a8ed-93ebffdbd84a.png)
 ![ClassRoom_Waifu_2_big_fog_sun_sigma_a_0 6_sun_sigma_s_0 05_god_ray_9_6_3_8192_sky_4 ppm_8192_9](https://user-images.githubusercontent.com/93391908/178229793-0ae6dff3-ed11-4e80-9cef-d255af5c2f54.png)
