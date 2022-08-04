@@ -1,6 +1,6 @@
 # Gallery
-![ClassRoom_Waifu_2_big_fog_sun_sigma_a_0 6_sun_sigma_s_0 05_god_ray_9_6_3_8192_sky_4 ppm_8192_9](https://user-images.githubusercontent.com/93391908/178229793-0ae6dff3-ed11-4e80-9cef-d255af5c2f54.png)
 ![1_BathRoom_Of_Lux_Beautiful](https://user-images.githubusercontent.com/93391908/139697925-6aff1fc2-f7be-40db-8094-2f34e8012153.png)
+![ClassRoom_Waifu_2_big_fog_sun_sigma_a_0 6_sun_sigma_s_0 05_god_ray_9_6_3_8192_sky_4 ppm_8192_9](https://user-images.githubusercontent.com/93391908/178229793-0ae6dff3-ed11-4e80-9cef-d255af5c2f54.png)
 ![2_Daki_Room_Perfect](https://user-images.githubusercontent.com/93391908/139697946-10ce7605-184f-4e3c-bd74-d96c0892d9b3.png)
 ![3_Kitchen](https://user-images.githubusercontent.com/93391908/139697958-f27cada7-e722-49c3-982f-f525519627ab.png)
 ![4_Living_Room](https://user-images.githubusercontent.com/93391908/139697968-1b58c9a8-23c6-4f05-8c17-98462f113527.png)
