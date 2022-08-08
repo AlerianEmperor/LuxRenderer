@@ -546,6 +546,65 @@ struct vertex_node
 	int triangle_index;
 };
 
+//https://www.compuphase.com/graphic/scale2.htm
+
+//use this function to further reduce the texture's memory by 4
+//repeated call of this function can lead to reduce texture quality
+//I didn't intended to use this function since SanMiguel only require vertex compression
+//However Amazon Lumberyard bistro require 6 GB of RAM while my laptop only have 4 GB
+
+//Amazon bistro only have 2.9 Millions triangles compare to SanMiguel 10 Millions triangles
+//but it have much larger texture and occuppy far more memory than SanMiguel
+//You may ask why I don't add the Amazon Bistro in the gallerry
+//I really want to, despite the sence have much lesser triangles than SanMiguel, Amazon bistro have really complex triangles arrangement
+//and run much more slower than SanMiguel
+//it will took nearly 2 days of running non stop for my computer to fully render Amazon bistro so I will leave this sence for future projects.
+
+void Down_Scale_Image(vector<uint8_t>& source, vector<uint8_t>& destination, int& w, int& h)
+{
+	//half width, half height
+	int hw = w / 2;
+	int hh = h / 2;
+
+	destination.resize(3 * hh * hw);
+
+	for (int y = 0; y < hh; ++y)
+	{
+		int y2 = 2 * y;
+		for (int x = 0; x < hw; ++x)
+		{
+			int x2 = 2 * x;
+			 //x     x + 1
+			// 1  |  2      y
+			// 3  |  4      y + 1
+
+			//source
+			int ind_s1 = y2 * w + x2;
+			int ind_s2 = y2 * w + x2 + 1;
+			int ind_s3 = (y2 + 1) * w + x2;
+			int ind_s4 = (y2 + 1) * w + x2 + 1;
+
+			//destination
+			int ind_d = y * hw + x;
+			
+			int p1 = (source[3 * ind_s1] + source[3 * ind_s2]) / 2;
+			int p2 = (source[3 * ind_s1 + 1] + source[3 * ind_s2 + 1]) / 2;
+			int p3 = (source[3 * ind_s1 + 2] + source[3 * ind_s2 + 2]) / 2;
+
+			int q1 = (source[3 * ind_s3] + source[3 * ind_s4]) / 2;
+			int q2 = (source[3 * ind_s3 + 1] + source[3 * ind_s4 + 1]) / 2;
+			int q3 = (source[3 * ind_s3 + 2] + source[3 * ind_s4 + 2]) / 2;
+
+			destination[3 * ind_d] = (p1 + q1) / 2;
+			destination[3 * ind_d + 1] = (p2 + q2) / 2;
+			destination[3 * ind_d + 2] = (p3 + q3) / 2;
+		}
+	}
+
+	w = hw;
+	h = hh;
+}
+
 struct Scene
 {
 	Scene(const string& filename)
