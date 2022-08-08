@@ -549,18 +549,18 @@ struct vertex_node
 //use this function to further reduce the texture's memory by 4
 //repeated call of this function can lead to reduction of texture quality
 //I didn't intended to use this function since SanMiguel only require vertex compression
-//However Amazon Lumberyard bistro require 6 GB of RAM while my laptop only have 4 GB
+//However Amazon Lumberyard Bistro require 6 GB of RAM while my laptop only have 4 GB
 
-//Amazon bistro only have 2.9 Millions triangles compare to SanMiguel 10 Millions triangles
+//Amazon Bistro only have 2.9 Millions triangles compare to SanMiguel 10 Millions triangles
 //but it have much larger texture and occuppy far more memory than SanMiguel
 //You may ask why I don't add the Amazon Bistro in the gallerry
-//I really want to, despite the sence have much lesser triangles than SanMiguel, Amazon bistro have really complex triangles arrangement
+//I really want to, despite the sence have much lesser triangles than SanMiguel, Amazon Bistro have really complex triangles arrangement
 //and run much more slower than SanMiguel
-//it will took nearly 2 days of running non stop for my computer to fully render Amazon bistro so I will leave this sence for future projects.
+//it will took nearly 2 days of running non stop for my computer to fully render Amazon Bistro so I will leave this sence for future projects.
 
 //https://www.compuphase.com/graphic/scale2.htm
 
-//WARNINGS! : only use this function if you attemp to run Amazon Lumberyard Bistro, All other large scene like SanMiguel work fine without this function
+//WARNINGS! : only use this function if you attemp to run Amazon Lumberyard Bistro, All other large scenes like SanMiguel work fine without this function
 //DownScale Image reserve most of the image quality, but if your aim was image quality, not saving space, then don't use this function
 
 //if this function is still not enough, use ReadObj_Remove_Back_Face to eliminate every unseen triangles, however it may change the model quite a bit.(actually a lot, sometimes)
