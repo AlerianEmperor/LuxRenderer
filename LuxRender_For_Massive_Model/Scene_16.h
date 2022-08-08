@@ -546,8 +546,6 @@ struct vertex_node
 	int triangle_index;
 };
 
-//https://www.compuphase.com/graphic/scale2.htm
-
 //use this function to further reduce the texture's memory by 4
 //repeated call of this function can lead to reduce texture quality
 //I didn't intended to use this function since SanMiguel only require vertex compression
@@ -560,6 +558,7 @@ struct vertex_node
 //and run much more slower than SanMiguel
 //it will took nearly 2 days of running non stop for my computer to fully render Amazon bistro so I will leave this sence for future projects.
 
+//https://www.compuphase.com/graphic/scale2.htm
 void Down_Scale_Image(vector<uint8_t>& source, vector<uint8_t>& destination, int& w, int& h)
 {
 	//half width, half height
