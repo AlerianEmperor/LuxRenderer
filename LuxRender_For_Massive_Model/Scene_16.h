@@ -547,7 +547,7 @@ struct vertex_node
 };
 
 //use this function to further reduce the texture's memory by 4
-//repeated call of this function can lead to reduce texture quality
+//repeated call of this function can lead to reduction of texture quality
 //I didn't intended to use this function since SanMiguel only require vertex compression
 //However Amazon Lumberyard bistro require 6 GB of RAM while my laptop only have 4 GB
 
