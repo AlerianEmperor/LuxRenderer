@@ -559,6 +559,16 @@ struct vertex_node
 //it will took nearly 2 days of running non stop for my computer to fully render Amazon bistro so I will leave this sence for future projects.
 
 //https://www.compuphase.com/graphic/scale2.htm
+
+//WARNINGS! : only use this function if you attemp to run Amazon Lumberyard Bistro, All other large scene like SanMiguel work fine without this function
+//DownScale Image reserve most of the image quality, but if your aim was image quality, not saving space, then don't use this function
+
+//if this function is still not enough, use ReadObj_Remove_Back_Face, it will eliminate 50% of unseen triangles.
+
+//Use at your own risk ;) !
+
+//set use_downscale_image to true to unleash the full compression power. 
+bool use_downscale_image = false;
 void Down_Scale_Image(vector<uint8_t>& source, vector<uint8_t>& destination, int& w, int& h)
 {
 	//half width, half height
@@ -1181,34 +1191,89 @@ struct Scene
 
 					if (n == 3)
 					{
-						tex.w = w;
-						tex.h = h;
-						tex.n = 3;
+						if(use_downscale_image)
+						{							
+							vector<uint8_t> cs;
 
-						tex.c.resize(3 * w * h);
+							cs.resize(3 * w * h);
 
-						for (int e = 0; e < 3 * w * h; ++e)
+							int s = 0;
+							for (int e = 0; e < 3 * w * h; e += 3)
+							{
+								cs[s] = 255 * powf(c[e] / 255.0f, a);
+								cs[s + 1] = 255 * powf(c[e + 1] / 255.0f, a);
+								cs[s + 2] = 255 * powf(c[e + 2] / 255.0f, a);
+								s += 3;
+							}
+
+							vector<uint8_t> destination;
+							Down_Scale_Image(cs, destination, w, h);
+
+							vector<uint8_t>().swap(cs);
+							
+							tex.w = w;
+							tex.h = h;
+							tex.n = 3;
+							tex.c = destination;
+						}
+						else
 						{
-							tex.c[e] = 255 * powf(c[e] / 255.0f, 2.6f);
+							tex.w = w;
+							tex.h = h;
+							tex.n = 3;
+
+							tex.c.resize(3 * w * h);
+
+							for (int e = 0; e < 3 * w * h; ++e)
+							{
+								tex.c[e] = 255 * powf(c[e] / 255.0f, 2.6f);
+							}
 						}
 					}
 					else if (n == 4 )
 					{
-						tex.w = w;
-						tex.h = h;
-						tex.n = 3;
+						if(use_downscale_image)
+						{							
+							vector<uint8_t> cs;
 
-						tex.c.resize(3 * w * h);
+							cs.resize(3 * w * h);
 
-						int s = 0;
-						for (int e = 0; e < 4 * w * h; e += 4)
-						{
-							tex.c[s] = 255 * powf(c[e] / 255.0f, 2.6f);
-							tex.c[s + 1] = 255 * powf(c[e + 1] / 255.0f, 2.6f);
-							tex.c[s + 2] = 255 * powf(c[e + 2] / 255.0f, 2.6f);
-							s += 3;
+							int s = 0;
+							for (int e = 0; e < 4 * w * h; e += 4)
+							{
+								cs[s] = 255 * powf(c[e] / 255.0f, a);
+								cs[s + 1] = 255 * powf(c[e + 1] / 255.0f, a);
+								cs[s + 2] = 255 * powf(c[e + 2] / 255.0f, a);
+								s += 3;
+							}
+
+							vector<uint8_t> destination;
+							Down_Scale_Image(cs, destination, w, h);
+
+							vector<uint8_t>().swap(cs);
+							
+							tex.w = w;
+							tex.h = h;
+							tex.n = 3;
+							tex.c = destination;
 						}
+						else
+						{
+							tex.w = w;
+							tex.h = h;
+							tex.n = 3;
+						
+							tex.c.resize(3 * w * h);
 
+							int s = 0;
+							for (int e = 0; e < 4 * w * h; e += 4)
+							{
+								tex.c[s] = 255 * powf(c[e] / 255.0f, 2.6f);
+								tex.c[s + 1] = 255 * powf(c[e + 1] / 255.0f, 2.6f);
+								tex.c[s + 2] = 255 * powf(c[e + 2] / 255.0f, 2.6f);
+								s += 3;
+							}
+						}
 						//check alpha material
 						float first_alpha_value = c[3] / 255.0f;
 
