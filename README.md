@@ -38,7 +38,7 @@ Here are the List Of Features of Lux Renderer:
 
 - SAH BVH. 
 
-- Render models with 10M+ triangles.
+- Render models with 10M+ triangles using vertex compression and Texture DownScale
 
 - Normal mapping and convert bump map to normal map. 
 
