@@ -561,7 +561,7 @@ struct vertex_node
 //https://www.compuphase.com/graphic/scale2.htm
 
 //WARNINGS! : only use this function if you attemp to run Amazon Lumberyard Bistro, All other large scenes like SanMiguel work fine without this function
-//DownScale Image reserve most of the image quality, but if your aim was image quality, not saving space, then don't use this function
+//DownScale Image reserve most of the image quality, but if your aim is image quality, not saving space, then don't use this function
 
 //if this function is still not enough, use ReadObj_Remove_Back_Face to eliminate every unseen triangles, however it may change the model quite a bit.(actually a lot, sometimes)
 
