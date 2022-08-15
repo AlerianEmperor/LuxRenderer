@@ -3,7 +3,7 @@ Lux Render is a rendering system which is capable of rendering high quality, lif
 
 It seem that nobody even care about Lux Render, I have seen so many mediocre projects only doing simple things and have a ridiculous number of stars, some up to a thoundsand. How? 
 
-Lux-Render is almost on par with pbrt v3 by matt phar and it only have 17 stars, in a year!!!! what a shame. The projects which I have put so much time and effort are now covered with dust in a corner of github. Every day, I check github and I am so disappointed that it just come nowhere. People stop and leave. A lot of people download the code and don't even star it. 
+Lux-Render is almost on par with pbrt v3 by matt phar and it only have 17 stars, in a year!!!! what a shame. The projects which I have put so much time and effort are now covered with dust in a corner of github. Every day, I check github and I am so disappointed that they just come nowhere. People stop and leave. A lot of people download the code and don't even star it. 
 
 So from now end I decide that no more upgrade or code clean up should be make, and if the situation didn't improve, Lux-Render and other projects will be remove from github forever. 
 
