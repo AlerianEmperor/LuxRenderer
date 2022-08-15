@@ -5,7 +5,9 @@ It seem that nobody even care about Lux Render, I have seen so many mediocre pro
 
 Lux-Render is almost on par with pbrt v3 by matt phar and it only have 17 stars, in a year!!!! what a shame. The projects which I have put so much time and effort are now covered with dust in a corner of github. Every day, I check github and I am so disappointed that they just come nowhere. People stop and leave. A lot of people download the code and don't even star it. Some starred and later reget and unstar, wow!!!
 
-Is your star so precious that it would be such a waste to star a project like Lux Render?
+Is your star so precious that it would be such a waste to star a project like Lux Render. A project that cost so many years of my young age and the humiliation come with it, I don't have a privilege to come to a prestigous university and have to study everything by myself. And so many struggles to make Lux Render alive.
+
+And now it's just a TRASH project on github. 
 
 So from now end I decide that no more upgrade or code clean up should be make, and if the situation don't improve, Lux-Render and other projects will be remove from github forever. 
 
