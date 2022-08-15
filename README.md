@@ -13,7 +13,7 @@ And now it's just a TRASH project on github.
 
 So from now end I have decided that no more upgrade or code clean up should be make, and if the situation don't improve, Lux-Render and other projects will be remove from github forever. 
 
-Well yes there are a few still support me, Big thank to GoddessOfProphercy, Tomie, FairyWindy, MaryaEstova, jungle-bits, xJayLee for starring most of my projects and to everyone who starred some of them. Thank you from he bottom of my heart, I am really appericated, sadly this version is likely the last one.
+Well yes there are a few still support me, Big thank to GoddessOfProphercy, Tomie, FairyWindy, MaryaEstova, jungle-bits, xJayLee for starring most of my projects and to everyone who starred some of them. Thank you from the bottom of my heart, I am really appericated, sadly this version is likely the last one.
 
 # Gallery
 ![SanMiguel_Final_No_Fog_4096](https://user-images.githubusercontent.com/93391908/182891702-febe6757-4976-492c-ad77-c796231f4010.png)
