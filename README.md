@@ -1,11 +1,15 @@
 # Lux Renderer
-Lux Render is a rendering system which is capable of rendering high quality, life-like images and cover most of the content in pbrt v3, mean while easier to read than pbrt. bdpt, mlmt will be added in the future, and also the cuda version of lux-render is also available. But...
+Lux Render is a rendering system which is capable of rendering high quality, life-like images and cover most of the content in pbrt v3, mean while easier to read than pbrt. bdpt, mlmt will be added in the future, the cuda version of Lux Render is also available. But...
 
 It seem that nobody even care about Lux Render, I have seen so many mediocre projects only doing simple things and have a ridiculous number of stars, some up to a thoundsand. How? 
 
-Lux-Render is almost on par with pbrt v3 by matt phar and it only have 17 stars, in a year!!!! what a shame. The projects which I have put so much time and effort are now covered with dust in a corner of github. Every day, I check github and I am so disappointed that they just come nowhere. People stop and leave. A lot of people download the code and don't even star it. 
+Lux-Render is almost on par with pbrt v3 by matt phar and it only have 17 stars, in a year!!!! what a shame. The projects which I have put so much time and effort are now covered with dust in a corner of github. Every day, I check github and I am so disappointed that they just come nowhere. People stop and leave. A lot of people download the code and don't even star it. Some starred and later reget and unstar, wow!!!
 
-So from now end I decide that no more upgrade or code clean up should be make, and if the situation didn't improve, Lux-Render and other projects will be remove from github forever. 
+Is your star so precious that it would be such a waste to star a project like Lux Render?
+
+So from now end I decide that no more upgrade or code clean up should be make, and if the situation don't improve, Lux-Render and other projects will be remove from github forever. 
+
+Now I understand why good stuff never free, and it should never be free.  
 
 # Gallery
 ![SanMiguel_Final_No_Fog_4096](https://user-images.githubusercontent.com/93391908/182891702-febe6757-4976-492c-ad77-c796231f4010.png)
