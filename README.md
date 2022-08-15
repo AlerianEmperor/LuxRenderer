@@ -11,6 +11,8 @@ Lux Render is a project that cost so many years of my young age and the humiliat
 
 And now it's just a TRASH project on github. 
 
+I even change the avatar of myself in bikini but it don't help either.
+
 Is your star so precious that it would be such a waste to star a project like Lux Render.
 
 So from now on I have decided that no more upgrade or code clean up should be make, and if the situation don't improve, Lux-Render and other projects will be remove from github forever. 
