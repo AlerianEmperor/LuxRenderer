@@ -1,3 +1,10 @@
+# Lux Renderer
+Lux Render is a rendering system which is capable of rendering high quality, life-like images and cover most of the content in pbrt v3, mean while easier to read than pbrt. bdpt, mlmt will be added in the future, and also the cuda version of lux-render is also available. But...
+
+It seem that nobody even care about Lux Render, I have seen so many mediocre projects only doing simple things and have a ridiculous number of stars, some up to a thoundsand. How? Lux-Render is almost on par with pbrt v3 by matt phar and it only have 17 stars, in a year!!!! what a shame. The projects which I have put so much time and effort are now covered with dust in a corner of github. Every day, I check github and I am so disappointed that it just come nowhere. People stop and leave. A lot of people download the code and don't even star it. 
+
+So from now end I decide that no more upgrade or code clean up should be make, and if the situation didn't improve, Lux-Render and other projects will be remove from github forever. 
+
 # Gallery
 ![SanMiguel_Final_No_Fog_4096](https://user-images.githubusercontent.com/93391908/182891702-febe6757-4976-492c-ad77-c796231f4010.png)
 ![1_BathRoom_Of_Lux_Beautiful](https://user-images.githubusercontent.com/93391908/139697925-6aff1fc2-f7be-40db-8094-2f34e8012153.png)
@@ -25,12 +32,7 @@
 ![Volume_2048_White ppmde_purple_de_black_de_infinity_de_speckle_fix_position_plus_100](https://user-images.githubusercontent.com/93391908/177918491-a56384a9-5b74-496a-93a4-2fcfa3828297.png)
 ![Volume_2048_White ppmde_purple_de_black_de_infinity_de_speckle_fix_position_plus_595](https://user-images.githubusercontent.com/93391908/177919523-01855f50-ff67-4a89-af5a-dfbd6aa98d3c.png)
 
-# Lux Renderer
-Lux Render is a rendering system which is capable of rendering high quality, lifelike images (not to be confuse with LuxCoreRenderer, it appear that all good names have already been taken). This project use no dependent library and only pure C++, it also took so damn looong to finish since everything have to be written from the scratch. Lux Render is the pinnacle of years of strenuous struggle and firce fighting!
 
-The project was named after the adorable Lux :innocent:, my most favorite girl from League Of Legends. My others favorite are Caitlyn and Syndra, you can find their images at honorable positions in rendered images along with Daki from Demon Slayers.
-
-Here are the List Of Features of Lux Renderer:  
 
 # Featuring
 
