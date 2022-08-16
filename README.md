@@ -11,8 +11,6 @@ Lux Render is a project that cost so many years of my young age and the humiliat
 
 And now it's just a TRASH project on github. 
 
-I even change the avatar of myself in bikini but it don't help either. Yes, it is a very cheap trick, I am a girl with self esteem, I am not doing this to gain view or follower because I want to be fair. Boys can not wear sexy clothes or bikini to gain view like us girls, I just want to see how low Lux Render is, and it indeed hit the bottom. May be I should switch to instagram full time instead of this stupid github.
-
 Is your star so precious that it would be such a waste to star a project like Lux Render.
 
 So from now on I have decided that no more upgrade or code clean up should be make, and if the situation don't improve, Lux-Render and other projects will be remove from github forever. 
