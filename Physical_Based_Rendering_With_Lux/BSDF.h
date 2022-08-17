@@ -22,6 +22,16 @@ struct Sampling_Struct
 
 };
 
+//TO DO:
+//https://github.com/LuxCoreRender/LuxCore/blob/master/src/slg/materials/cloth.cpp
+//add cloth from luxcore render
+//it appear that paper about cloth rendering scarce
+//dream work 2017 paper is wrong
+
+//TO DO 2:
+//become IGM on codeforces
+//start date
+//9:35 pm 17-8-2022
 
 class BSDF_Sampling
 {
