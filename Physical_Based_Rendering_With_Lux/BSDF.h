@@ -22,7 +22,7 @@ struct Sampling_Struct
 
 };
 
-//TO DO:
+//TO DO 1:
 //https://github.com/LuxCoreRender/LuxCore/blob/master/src/slg/materials/cloth.cpp
 //add cloth from luxcore render
 //it appear that paper about cloth rendering scarce
