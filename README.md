@@ -1,8 +1,6 @@
 # Lux Renderer
 # Read This If You Want To See Lux Render On Github
 
-Thank you DoubleCai for the star, I am really appericate, have a good day!
-
 Lux Render is a rendering system which is capable of rendering high quality, life-like images and cover most of the content in pbrt v3, mean while easier to read than pbrt. bdpt, mlmt will be added in the future, the cuda version of Lux Render is also available. But...
 
 It seem that nobody even care about Lux Render, I have seen so many mediocre projects only doing simple things and have ridiculous number of stars, some up to several thoundsands. How? 
