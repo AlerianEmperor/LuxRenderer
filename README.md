@@ -2,6 +2,8 @@
 
 Lux Render is a rendering system which is capable of rendering high quality, life-like images and cover most of the content in pbrt v3, mean while easier to read than pbrt
 
+Github recommended system is so stupid, there are bunch of mediocre projects which were obsoleted for a very long time still appear on trending list, while newer and better ones don't because they have so few star. For that reason, I think I might remove LuxRender altogether. I really really dislike people who download my code and don't even bother to star, I don't get any money from this project, and not even a moral support. After a year and the star count is stagnant, What's the point of continuing! That's why good things should never be free!
+
 # Featuring
 
 - Unidrectional Path Tracing with NEE. 
