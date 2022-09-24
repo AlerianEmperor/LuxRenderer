@@ -1,6 +1,8 @@
 # Lux Renderer
 
-Lux Render is a rendering system which is capable of rendering high quality, life-like images and cover most of the content in pbrt v3, mean while easier to read than pbrt
+Lux Render is a rendering system which is capable of rendering high quality, life-like images and cover most of the content in pbrt v3, mean while easier to read than pbrt.
+
+I really really hate people who download the code without staring anything!!! it is so frustrating to see so many people use the code without the proper respect. When I am done with this project, this github will gone forever!
 
 # Featuring
 
