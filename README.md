@@ -66,7 +66,6 @@ I really really hate people who download the code without staring anything!!! it
 ![13_Hexa_Ball_up_skirt](https://user-images.githubusercontent.com/93391908/139698075-e4ad551a-615c-437d-b517-1f20374e1db8.png)
 ![14_Victorian_House](https://user-images.githubusercontent.com/93391908/139698085-6b07ca18-b1ce-4986-b668-f18949145606.png)
 ![15_Space_Ship](https://user-images.githubusercontent.com/93391908/139698089-7443c196-459c-4e95-a1d1-fc44d97ca02d.png)
-![Ajax](https://user-images.githubusercontent.com/93391908/193847326-3a362d25-d379-4955-be94-9563b2eaa79e.png)
 ![Ajax_bright_-10_contrast_35](https://user-images.githubusercontent.com/93391908/193852482-60c6f77a-81db-4a30-accd-c32209c04d8f.png)
 ![16_Storm_Trooper](https://user-images.githubusercontent.com/93391908/139698105-9e204194-5513-4295-b994-f710a48b7de9.png)
 ![17_SanMiguel](https://user-images.githubusercontent.com/93391908/139698111-c70cb423-5ea7-49b9-a7fc-4c6bcb24cdf3.png)
