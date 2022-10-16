@@ -4,7 +4,7 @@ Lux Render is a rendering system which is capable of rendering high quality, lif
 
 Hi abc00, thank you for starring the project. If you have already downloaded the code, you should consider redownload because the Scene.h and BSDF.h in Lux Render were missing, Scene16.h and Scene16_no_vertex_compression.h were also missing. This error happen when I replace some old code, I have uploaded them again. 
 
-If you want to run the images in gallery, change the model file name to one of the model I provide in "models", all of these model have some look from and view direction attach to them. The code is in perfect condition, no library is needed to compile excep c++ 14, if you have problem running the code, leave some comments in the issue or send me an email.
+If you want to run the images in gallery, change the model file name to one of the model I provide in "models", all of these model have some look from and view direction attach to them. The code is in perfect condition, no library is needed to compile, you only need c++ 14, if you have problem running the code, leave some comments in the issue or send me an email.
 
 
 # Featuring
