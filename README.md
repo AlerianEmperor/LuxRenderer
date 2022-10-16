@@ -6,6 +6,11 @@ Hi abc00, thank you for starring the project. If you have already downloaded the
 
 If you want to run the images in gallery, change the model file name to one of the model I provide in "models", all of these model have some look from and view direction attach to them. The code is in perfect condition, no library is needed to compile, you only need c++ 14, if you have problem running the code, leave some comments in the issue or send me an email.
 
+I am going to add a lot of new features like bdpt, mtlt, vcm, better matrial... but, there is not many great benifit in doing so since I don't have much spare time, this project have cost me so many years. Many people download the code for their project and don't even bother to star. So I am not having much financial or moral support to keep going. 
+
+The GPU version of Lux Render is GPU Path Tracing on Cuda, you should definitely check it out. 
+
+Before this year end, I will release an opengl engine, real time path tracing in opengl, svgf denoise and improve voxel cone tracing. After that, I will stop the development of all the projects.
 
 # Featuring
 
