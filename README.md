@@ -2,6 +2,8 @@
 
 Lux Render is a rendering system which is capable of rendering high quality, life-like images and cover most of the content in pbrt v3, mean while easier to read.
 
+Thank you BikiniMaiden for 10 stars, I am really appericiated, have a good day!
+
 # Featuring
 
 - Unidrectional Path Tracing with NEE. 
