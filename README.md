@@ -4,6 +4,8 @@ Lux Render is a rendering system which is capable of rendering high quality, lif
 
 Thank you BikiniMaiden for 10 stars, I am really appericiated, have a good day!
 
+To compile the code, you only need to change the "file_name" variable in main.cpp to the models in "Models" file. To change sample count, look for "ns" variable. In the main.cpp, there are Look_From and View_Direction variables under each model name, you should use the right one to achieve the desire result. No Dependent library is needed to compile. This project is written in C++14 and the code is in perfect condition!
+
 # Featuring
 
 - Unidrectional Path Tracing with NEE. 
