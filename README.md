@@ -2,7 +2,7 @@
 
 Lux Render is a rendering system which is capable of rendering high quality, life-like images and cover most of the content in pbrt v3, mean while easier to read.
 
-Hi BlackantHermit, Thank you for the star, if you have downloaded the code, I think you should consider download again because scene.h and scene_16.h were missing due to file upload issue, I have upload them again.
+Hi BlackantHermit, Thank you for the star, if you have downloaded the code, I think you should consider download again because scene.h and scene_16.h were missing due to file upload issue, I have uploaded them again.
 
 To compile the source code, you only need to change the "File_Name" in Scene scn("File_Name") to the file in Models folder, notice there are "Look_From" and "view_direction" under each model them, uncomment them for the right model. This project use no dependent library so you can download an run it straight away. Notice you have to compile in x86 because sqrt14 only recognisable in x86 mode. If you want to use it on x64, use Flat_BVH version I store on "Rendering_Resources" reposipitories. And remember to turn on openmp in setting.
 
