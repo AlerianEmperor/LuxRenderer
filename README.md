@@ -4,9 +4,9 @@ Lux Render is a rendering system which is capable of rendering high quality, lif
 
 Hi BlackantHermit, Thank you for the star, if you have downloaded the code, I think you should consider download again because scene.h and scene_16.h were missing due to file upload issue, I have uploaded them again.
 
-To compile the source code, you only need to change the "File_Name" in Scene scn("File_Name") to the file in Models folder, notice there are "Look_From" and "view_direction" under each model them, uncomment them for the right model. This project use no dependent library so you can download an run it straight away. Notice you have to compile in x86 because sqrt14 only recognisable in x86 mode. If you want to use it on x64, use Flat_BVH version I store on "Rendering_Resources" reposipitories. And remember to turn on openmp in setting.
+To compile the source code, you only need to change the "File_Name" in Scene scn("File_Name") to the file in Models folder, notice there are "Look_From" and "view_direction" under each model name, uncomment them for the right model. This project use no dependent library so you can download and run it straight away. Notice you have to compile the code in x86 because sqrt14 only recognisable in x86 mode. If you want to use it on x64, use Flat_BVH version I store on "Rendering_Resources" reposipitories. And remember to turn on openmp in setting.
 
-If you want to render the San Miguel, use Lux Render For massive model.
+If you want to render the San Miguel, use Lux Render For massive model, which have scene_16.h.
 
 The Code is in prefect condition and should give the desire result.
 
