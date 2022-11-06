@@ -1,6 +1,6 @@
 # Lux Renderer
 
-Faker lost another world finals is so sad, damn it!!!
+Faker lost another world finals is so sad, it's suck. Good for Deft, but it's still suck !!!
 
 Lux Render is a rendering system which is capable of rendering high quality, life-like images. This project cover most of the content in pbrt v3 and also easier to read.
 
