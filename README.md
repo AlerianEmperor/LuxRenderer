@@ -6,6 +6,9 @@ Lux Render is a rendering system which is capable of rendering high quality, lif
 
 Thank you Klunio for the star, to run the project, you only need to download the code and change Scene scn("file_name") to any of the 3d object in models file, and remember to use the right look_from, view_direction for each model. The code is in perfect condition and use no depedent library. 
 
+
+Thank you daweedkob for your star, this is your second stars in 3 days, this is unprecedented. Thank you, Have a good day!
+
 # Featuring
 
 - Unidrectional Path Tracing with NEE. 
