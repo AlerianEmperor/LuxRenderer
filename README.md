@@ -1,13 +1,8 @@
 # Lux Renderer
 
-Faker lost another world finals is so sad, it's suck. Good for Deft, but it's still suck !!!
-
 Lux Render is a rendering system which is capable of rendering high quality, life-like images. This project cover most of the content in pbrt v3 and also easier to read.
 
-Thank you Klunio for the star, to run the project, you only need to download the code and change Scene scn("file_name") to any of the 3d object in models file, and remember to use the right look_from, view_direction for each model. The code is in perfect condition and use no depedent library. 
-
-
-Thank you daweedkob for your star, this is your second stars in 3 days, this is unprecedented. Thank you, Have a good day!
+To run the project, you only need to download the code and change Scene scn("file_name") to any of the 3d object in models file, and remember to use the right look_from, view_direction for each model. The code is in perfect condition and use no depedent library. 
 
 # Featuring
 
