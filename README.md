@@ -2,8 +2,6 @@
 
 Lux Render is a rendering system which is capable of rendering high quality, life-like images. This project cover most of the content in pbrt v3 and also easier to read.
 
-To run the project, you only need to download the code and change Scene scn("file_name") to any of the 3d object in models file and use the right look_from, view_direction for each model. The code is in perfect condition and use no depedent library. 
-
 # Featuring
 
 - Unidrectional Path Tracing with NEE. 
