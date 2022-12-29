@@ -4,7 +4,7 @@ Lux Render is a rendering system which is capable of rendering high quality, lif
 
 # Featuring
 
-- Unidrectional Path Tracing with NEE. 
+- Unidrectional Path Tracing with NEE and MIS.
 
 - SAH BVH. 
 
