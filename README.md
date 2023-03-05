@@ -1,6 +1,6 @@
 # Lux Renderer
 
-Lux Render is a rendering system capable of rendering high quality, life-like images, and independent from any third party library. Everything was written from scratch in pure C++. This project cover most of the content in pbrt v3 and also easier to read.
+Lux Render is a rendering system capable of rendering high quality, life-like images. Everything was written from scratch in pure C++ without any third party library. This project cover most of the content in pbrt v3 and also easier to read.
 
 # Featuring
 
