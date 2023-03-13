@@ -2,7 +2,9 @@
 
 Lux Render is a rendering system capable of rendering high quality, life-like images. Everything was written from scratch in pure C++ without any third party library. This project cover most of the content in pbrt v3 and also easier to read.
 
-To everyone who is watching my projects. Thank you if you have starred my repositories, and if you don't, would you consider starring my projects so I can have a better position in my up coming battle! These projects have cost so many years of my life, with so many struggle, stress, frustration and humiliation so you can download it for free. I have saw so many projects of the same type having hundread of stars while mine is in terrible condition. Why? why so many cloners but no star? Is your star that precious? Starring this project and others will keep it alive and thrive, if you don't do it, I will delete everything when this nightmare is over! 
+To everyone who is watching my projects. Thank you if you have starred my repositories, and if you don't, would you consider starring my projects so I can have a better position in my up coming battle! These projects have cost so many years of my life, with so many struggle, stress, frustration and humiliation so you can download it for free. I have saw so many projects of the same type having hundread of stars while mine is in terrible condition. Why? why so many cloners but no star? Is your star that precious? Starring this project and others will keep it alive and thrive.
+Every time I wake up, I am so dissapointed to see this project just come no where, many cloners but no one even bother to even star!!! Is it that trivial!!
+If you don't do it, fine, I will delete everything when this nightmare is over! 
 
 # Featuring
 
