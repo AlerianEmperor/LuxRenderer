@@ -4,10 +4,6 @@ Lux Render is a rendering system capable of rendering high quality, life-like im
 
 To everyone who is watching my projects. Thank you if you have starred my repositories, and if you don't, would you consider starring my projects so I can have a better position in my up coming battle, thank you! Starring this project and others will keep them alive and thrive.
 
-Thank you jimbok8
-Thank you KevinSONG729
-
-
 # Featuring
 
 - Unidrectional Path Tracing with NEE and MIS.
