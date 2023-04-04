@@ -2,8 +2,6 @@
 
 Lux Render is a rendering system capable of rendering high quality, life-like images. Everything was written from scratch in pure C++ without any third party library. This project cover most of the content in pbrt v3 and also easier to read.
 
-Hi Opacitation and wangxunstu, thanks for the stars! Have a delicious day!  
-
 # Featuring
 
 - Unidrectional Path Tracing with NEE and MIS.
