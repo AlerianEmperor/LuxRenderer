@@ -10,9 +10,9 @@ When you come from a third world country and want to find a job in the first wor
 
 Actually I can easily find a high paying job in my country, but there is just no future staying in my country. I have to say that my country is a communist mafia state, similar to China and Russia now. So I have to fought hard to make these kind of projects. And graphics programming literally not exist in my country, so if I failed to get a job in EU/US, then all those hard work will come in vain!
 
-Not to mention, everyone, family members always mock me as a jobless, and have no future. I have intense fighting with parents once a month, it really stressful. They said why don't just accept the fact and find a job, start a family. I said, well, I will do so, but not in this shit hole country. 
+Not to mention, everyone, family members always mock me as a jobless, and have no future. I have intense fighting with parents once a month, it really stressful. They said why don't just accept the fact and find a job, start a family. I said, well, I will do so, but not in this shit hole country. I am only in my 20s and in term of knowledge, I am far ahead than a lot of people in my age and older, I just happen to be poor and they see me as a total losers (thet are obviously losers here!).
 
-So plz, consider starring, the reason I don't update regularly because there are so few star and it so frustating. I need this star for my up coming interview. 
+So plz, consider starring, the reason I don't update regularly because there are so few stars and it so frustating. I need more stars for my up coming interviews. 
 
 The current state of my projects are just so pathetic!
 
@@ -20,7 +20,7 @@ why so many medicore projects have hundred and thousand of stars!
 
 why so many projects just do the same thing as I did get hundred of stars!
 
-And you have to substract stars from my friends, who don't even care about graphics.
+And you have to substract stars from my friends, who don't even care about graphics. The real stars count is actually very small!
 
 Consider starring now because this will be the last time I will ever ask for this. when the interview happend in early to mid june, 1 millions star won't make any different any more, your star will be game changing now, but after june it will be worthless!
 
