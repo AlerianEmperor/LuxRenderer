@@ -10,7 +10,7 @@ When you come from a third world country and want to find a job in the first wor
 
 Actually I can easily find a high paying job in my country, but there is just no future staying in my country. I have to say that my country is a communist mafia state, similar to China and Russia now. So I have to fought hard to make these kind of projects. And graphics programming literally not exist in my country, so if I failed to get a job in EU/US, then all those hard work will come in vain!
 
-Not to mention, everyone, family members always maock me as a jobless, and have no future. I have intense fighting with parents once a month, it really stressful. They said why don't just accept the fact and find a job, start a family. I said, well, I will do so, but not in this shit hole country. 
+Not to mention, everyone, family members always mock me as a jobless, and have no future. I have intense fighting with parents once a month, it really stressful. They said why don't just accept the fact and find a job, start a family. I said, well, I will do so, but not in this shit hole country. 
 
 So plz, consider starring, the reason I don't update regularly because there are so few star and it so frustating. I need this star for my up coming interview. 
 
