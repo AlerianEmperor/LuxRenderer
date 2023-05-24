@@ -40,6 +40,8 @@ And this will be the last time I ever ask for this!
 
 So, plz starring now. It took me years of hard work to do these projects, and you can download it for free, you only have to star, why is it so hard!
 
+There will be 3 more new projects coming this month, consider starring them as well, they really need your support!
+
 Thank you again for starring and following me!
 
 # Lux Renderer
