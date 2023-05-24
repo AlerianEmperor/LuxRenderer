@@ -28,13 +28,15 @@ And if I just failed and have to surrender to my fate, then, fine. At best I wil
 
 You may say: "Your projects is really trivial, there are many way better ones!", well, may be. But consider this, take wicked engine by janos turanszky for example. I admire his talent and his works are wonderful. But can you learn from his code? It is a massive project for sure, but what can you learn from it. The best thing you can do is download and run the code. That's why he is so confident putting everything up there, because he know it is too complex that you can not learn anything from it!
 
-the same with pbrt3 and pbrt4, it was create for profession or some one who already know how to write a graphics renderer!, not learning from front to back.
+the same with pbrt3 and pbrt4, it was create for professional or some one who already know how to write a graphics renderer!, not learning from front to back.
 
 LuxRender and my code are not really big, but at least simple enough to learn!
 
 It not that I can not do it better, I can add bdpt, mlt and compress wide bvh, and better material, and way more advance features, it really not that hard! But many people just want free code and no star, then they will get nothing at all! And why I have to sacrifice my free time just to get nothing in return!
 
-Everyday, I wake up without any star, I feel like a loser stuck in a conner!
+My situation now is just like germany fighting on multiple fronts.
+
+Everyday, I wake up without any star, I feel like a loser stuck in a conner! 
 
 And this will be the last time I ever ask for this!
 
