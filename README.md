@@ -32,6 +32,8 @@ the same with pbrt3 and pbrt4, it was create for professional or some one who al
 
 LuxRender and my code are not really big, but at least simple enough to learn!
 
+voxel cone tracing is really tricky to implement, that why there are many people visit my code so regularly, but again don't bother to star!
+
 It not that I can not do it better, I can add bdpt, mlt and compress wide bvh, and better material, and way more advance features, it really not that hard! But many people just want free code and no star, then they will get nothing at all! And why I have to sacrifice my free time just to get nothing in return!
 
 My situation now is just like germany fighting on multiple fronts.
