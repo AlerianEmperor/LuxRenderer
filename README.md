@@ -1,5 +1,7 @@
 Hi There!
+
 First, Thank you if you starred any of my projects, I am really appericate your star, and I would even more appericate if you star any projects in the main page!
+
 Second, Thank you if you follow me, and I will be very appericiate if you star my projects if you havent already!
 
 If you find my projects interesting, plz consider starring. And this is the last time I ask you for this. These projects exist for the sole purpose of getting me a jobs in a EU / US, which is very hard for a people from a third world country like me. Since I have to learn everything from scratch, these projects have taken years of my life to do. So I need as much star as possible. 
