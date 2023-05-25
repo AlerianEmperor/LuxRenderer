@@ -48,6 +48,9 @@ There will be 3 more new projects coming this month, consider starring them as w
 
 Thank you again for starring and following me!
 
+Thank you pdiaz!
+Thank you TrueVegetable, so many stars!
+
 # Lux Renderer
 
 Lux Render is a rendering system capable of rendering high quality, life-like images. Everything was written from scratch in pure C++ without any third party library. This project cover most of the content in pbrt v3 and also easier to read.
