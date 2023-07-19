@@ -2,7 +2,9 @@
 
 Lux Render is a rendering system capable of rendering high quality, life-like images. Everything was written from scratch in pure C++ without any third party library. This project cover most of the content in pbrt v3 and also easier to read.
 
-Note: Fixed error in DakiRoom File, the alpha leaf name should be leaf_alpha_small.png instead of leaf_alpha_1.png, the program is working properly now! Consider download again if you have trouble compling the code.
+Note: Fixed error in DakiRoom File, the alpha leaf name should be leaf_alpha_small.png instead of leaf_alpha_1.png, the program is working properly now! And remember to put env9_blur.jpg in the same folder which contain the model file.
+
+If you still can not compile the code, consider download everything again!
 
 # Featuring
 
